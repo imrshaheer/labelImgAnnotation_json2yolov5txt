@@ -15,8 +15,12 @@ pip install -r requirements.txt
 
 <b>Step 3.</b> Put All LabelImg Json format Annotations in - labels directory
 <br/>
+![labels](https://user-images.githubusercontent.com/38965031/176422175-dc77947c-1862-4b24-a09d-0cdd3d8c8134.gif)
+<br/>
 
 <b>Step 4.</b> Put All Images in - images directory
+<br/>
+![images](https://user-images.githubusercontent.com/38965031/176422335-1f18fef5-c4ad-4667-956e-d67796785fe0.gif)
 <br/>
 
 <b>Step 5.</b> Run json2yolov5.py file
