@@ -4,6 +4,10 @@ This is the repository about - Conversion of LabelImg Annotation of Json format 
 ## Steps
 <br />
 <b>Step 1.</b> Clone this repository: https://github.com/shaheera011/labelImgAnnotation_json2yolov5txt.git
+```
+git clone https://github.com/shaheera011/labelImgAnnotation_json2yolov5txt.git
+```
+
 <br/>
 <br/>
 
