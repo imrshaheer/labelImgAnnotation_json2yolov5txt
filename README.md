@@ -23,12 +23,18 @@ pip install -r requirements.txt
 ![images](https://user-images.githubusercontent.com/38965031/176422335-1f18fef5-c4ad-4667-956e-d67796785fe0.gif)
 <br/>
 
-<b>Step 5.</b> Run json2yolov5.py file
+<b>Step 5.</b> Update lut dictonary in (json2yolov5.py) according to your labels names
+![change_class](https://user-images.githubusercontent.com/38965031/176422740-49cf9b47-939c-407a-91e3-efa30e1e8467.gif)
+<br/>
+
+<b>Step 6.</b> Run json2yolov5.py file
 <pre>
 python json2yolov5.py
 </pre>
 <br/>
 
-<b>Step 5.</b> Update lut dictonary in (json2yolov5.py) according to your labels names
-![change_class](https://user-images.githubusercontent.com/38965031/176422740-49cf9b47-939c-407a-91e3-efa30e1e8467.gif)
+<b>Step 7.</b> [INFO]
+<pre>
+[Note] See all your txt format annotations in - Yolov5-labels directory
+</pre>
 <br/>
