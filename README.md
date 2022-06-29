@@ -13,10 +13,10 @@ pip install -r requirements.txt
 </pre>
 <br/>
 
-<b>Step 3.</b> Put All LabelImg Json format Annotation in - labels directory
+<b>Step 3.</b> Put All LabelImg Json format Annotations in - labels directory
 <br/>
 
-<b>Step 4.</b> Put All Image in - images directory
+<b>Step 4.</b> Put All Images in - images directory
 <br/>
 
 <b>Step 5.</b> Run json2yolov5.py file
