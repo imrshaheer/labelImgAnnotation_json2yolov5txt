@@ -29,8 +29,8 @@ python json2yolov5.py
 </pre>
 <br/>
 
-<b>Step 5.</b> Update lut dictonary according to your labels names
+<b>Step 5.</b> Update lut dictonary in (json2yolov5.py) according to your labels names
 <pre>
-python json2yolov5.py
+![change_class](https://user-images.githubusercontent.com/38965031/176422651-76efafea-5903-4a99-9a6a-db7e9b2f843b.gif)
 </pre>
 <br/>
