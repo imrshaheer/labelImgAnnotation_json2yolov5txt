@@ -24,3 +24,9 @@ pip install -r requirements.txt
 python json2yolov5.py
 </pre>
 <br/>
+
+<b>Step 5.</b> Update lut dictonary according to your labels names
+<pre>
+python json2yolov5.py
+</pre>
+<br/>
