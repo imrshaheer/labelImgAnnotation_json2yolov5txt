@@ -36,6 +36,12 @@ pip install -r requirements.txt
 <br/>
 <br/>
 
+<b>[INFO]</b>
+<pre>
+[Note] Remove requirement.txt & gitignore file from main Directory
+</pre>
+<br/>
+
 <b>Step 6.</b> Run json2yolov5.py file
 <br/>
 ```shell
@@ -44,7 +50,7 @@ python json2yolov5.py
 <br/>
 <br/>
 
-<b>Step 7.</b> [INFO]
+<b>[INFO]</b>
 <pre>
 [Note] See all your txt format annotations in - Yolov5-labels directory
 </pre>
