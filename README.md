@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 <b>[INFO]</b>
 <pre>
-[Note] Remove requirement.txt & gitignore file from main Directory
+[Note] Remove requirement.txt & gitignore files from main Directory
 </pre>
 <br/>
 
